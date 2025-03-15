@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://toyota-info.github.io/aba/sitemap.xml
